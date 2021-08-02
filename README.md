@@ -7,5 +7,18 @@ All traffic signs can be detect by their position on the picture or video which 
 
 A simple detection is like the picture below:
 
-![image info](Test pictures/2OzW_TNKFJnt7pddNdL3fQ.jpg)
+<img src="Test pictures/2OzW_TNKFJnt7pddNdL3fQ.jpg" width="1100">
+
+## Process 
+1. Collecting traffic sign dataset
+2. Classification data
+3. Seprating pictures in Valid, Test, and Train
+4. Training Network
+5. Growth procedure and Tensorboard diagrams
+6. Final test and test pictures
+7. Real-time object detection 
+8. Documentation and resourses
+
+
+## How to test
 
